@@ -2899,6 +2899,7 @@ documented in additional help files.
   fountain................................|ale-fountain-options|
   fusionscript............................|ale-fuse-options|
     fusion-lint...........................|ale-fuse-fusionlint|
+  gemtext.................................|ale-gemtext-options|
   git commit..............................|ale-gitcommit-options|
     gitlint...............................|ale-gitcommit-gitlint|
   glsl....................................|ale-glsl-options|
