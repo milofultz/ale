@@ -199,6 +199,8 @@ formatting.
   * [proselint](http://proselint.com/)
 * FusionScript
   * [fusion-lint](https://github.com/RyanSquared/fusionscript)
+* Gemtext
+  * [alex](https://github.com/get-alex/alex)
 * Git Commit Messages
   * [gitlint](https://github.com/jorisroovers/gitlint)
 * GLSL

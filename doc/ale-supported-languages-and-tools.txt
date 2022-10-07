@@ -190,6 +190,8 @@ Notes:
   * `proselint`
 * FusionScript
   * `fusion-lint`
+* Gemtext
+  * `alex`
 * Git Commit Messages
   * `gitlint`
 * GLSL
